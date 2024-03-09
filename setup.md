@@ -22,3 +22,7 @@ create folder->(landing)->page.tsx->http://localhost:3000
 routes-> folder ka name se decide kara jata hai ke page ka route kya hoga
 
 dashboard folder-> routes('/dashboard')
+
+3. Clerk authentication-->login/signup
+
+next.js ko select karke uske baad continoues karne ke baad jo waha documents mein hai step by step implement karna hai..
