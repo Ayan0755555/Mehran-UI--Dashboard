@@ -11,4 +11,14 @@ css variable->yes
 
 And then
 
-npx shadcn-ui@latest add button->for button
+npx shadcn-ui@latest add button->
+
+2- Folder setup
+
+create folder in app->(dashboard)->(routes)->dashboard->page.tsx-> http://localhost:3000/dashboard
+
+create folder->(landing)->page.tsx->http://localhost:3000
+
+routes-> folder ka name se decide kara jata hai ke page ka route kya hoga
+
+dashboard folder-> routes('/dashboard')
