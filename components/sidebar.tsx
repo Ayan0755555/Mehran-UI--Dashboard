@@ -1,4 +1,7 @@
+"use client"
+
 // Import your components and libraries
+import React from "react";
 import { cn } from "@/lib/utils";
 import { Code2, ImagesIcon, LayoutDashboard, MessageSquare, Music2, Settings2, VideoIcon } from "lucide-react";
 import { Montserrat } from "next/font/google";
